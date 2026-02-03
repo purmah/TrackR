@@ -5,8 +5,8 @@
   "type": "module",
   "scripts": {
     "setup-project": "npm i && cd client && npm i",
-    "setup-production-app": "npm i && cd client && npm i",
-    "build-client": "cd client && npm run build",
+    "setup-production-app": "npm install && cd client && npm install",
+    "build-client": "cd client && npm install && npm run build",
     "start": "node server",
     "server": "nodemon server",
     "client": "cd client && npm run dev",
