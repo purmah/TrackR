@@ -1,6 +1,6 @@
 # TrackR - Job Application Tracker
 
-[Live Demo](#): https://trackr-fjp7.onrender.com
+Live Demo: https://trackr-fjp7.onrender.com
 ## 📋 Overview
 
 TrackR is a modern, full-stack job application tracking system built with the MERN stack. Designed to help job seekers stay organized, TrackR provides an intuitive interface for managing job applications, tracking interview schedules, and monitoring application statuses—all in one place.
